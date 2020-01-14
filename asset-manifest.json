@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calender-infinite-scroll/static/css/main.7ba40b62.chunk.css",
+    "main.js": "/calender-infinite-scroll/static/js/main.dda0860d.chunk.js",
+    "main.js.map": "/calender-infinite-scroll/static/js/main.dda0860d.chunk.js.map",
+    "runtime-main.js": "/calender-infinite-scroll/static/js/runtime-main.3c1caa2a.js",
+    "runtime-main.js.map": "/calender-infinite-scroll/static/js/runtime-main.3c1caa2a.js.map",
+    "static/js/2.ed65138d.chunk.js": "/calender-infinite-scroll/static/js/2.ed65138d.chunk.js",
+    "static/js/2.ed65138d.chunk.js.map": "/calender-infinite-scroll/static/js/2.ed65138d.chunk.js.map",
+    "index.html": "/calender-infinite-scroll/index.html",
+    "precache-manifest.69c60bc2e8964d7f5175193619e8d7d8.js": "/calender-infinite-scroll/precache-manifest.69c60bc2e8964d7f5175193619e8d7d8.js",
+    "service-worker.js": "/calender-infinite-scroll/service-worker.js",
+    "static/css/main.7ba40b62.chunk.css.map": "/calender-infinite-scroll/static/css/main.7ba40b62.chunk.css.map",
+    "static/js/2.ed65138d.chunk.js.LICENSE": "/calender-infinite-scroll/static/js/2.ed65138d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1caa2a.js",
+    "static/js/2.ed65138d.chunk.js",
+    "static/css/main.7ba40b62.chunk.css",
+    "static/js/main.dda0860d.chunk.js"
+  ]
+}

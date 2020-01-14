@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calender-infinite-scroll/precache-manifest.69c60bc2e8964d7f5175193619e8d7d8.js"
+  "/calender-infinite-scroll/precache-manifest.16de2561a6b4dc2434408c6a7a442456.js"
 );
 
 self.addEventListener('message', (event) => {
